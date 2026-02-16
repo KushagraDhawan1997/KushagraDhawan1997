@@ -12,7 +12,7 @@ I'm currently building the **Kookie ecosystem** and consulting with **[Womp 3D](
 
 A system to build consistent and scalable user interfaces. An open-source fork of [Radix Themes](https://github.com/radix-ui/themes) with a fresh visual style and practical foundations. Tokens, primitives, patterns, accessibility, motion, theming hooks, keyboard paths, and predictable behavior across states. Kookie UI powers all of Womp's production interface.
 
-→ [Website](https://hellokookie.com) · [GitHub](https://github.com/KushagraDhawan1997/kookie-ui) · [Article: Why Designers Should Own the Experience in Production](https://kushagradhawan.com/articles/designers-own-the-experience-in-production)
+→ [Website](https://hellokookie.com) · [npm](https://www.npmjs.com/package/@kushagradhawan/kookie-ui) · [GitHub](https://github.com/KushagraDhawan1997/kookie-ui) · [Article: Why Designers Should Own the Experience in Production](https://kushagradhawan.com/articles/designers-own-the-experience-in-production)
 
 ### [Kookie Flow](https://github.com/KushagraDhawan1997/kookie-flow) — WebGL Node Graph Engine
 
@@ -24,7 +24,7 @@ A WebGL-native node graph library for React. React Flow's ergonomics, GPU-render
 
 Higher-level implementation of Kookie UI focused on reusable blocks for app interfaces and marketing pages. Includes StreamingMarkdown (performance-optimized markdown renderer for AI streaming), Chatbar, Shell (declarative layout engine), and more.
 
-→ [Website](https://kookieblocks.com) · [GitHub](https://github.com/KushagraDhawan1997/kookie-blocks)
+→ [Website](https://kookieblocks.com) · [npm](https://www.npmjs.com/package/@kushagradhawan/kookie-blocks) · [GitHub](https://github.com/KushagraDhawan1997/kookie-blocks)
 
 ### [Kookie AI](https://kushagradhawan.com/kookie-ai) — Spatial AI Workspace
 
