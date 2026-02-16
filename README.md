@@ -61,5 +61,5 @@ I ship with Claude Code and Cursor daily. I'm extremely pro-AI as a development 
 - **Website:** [kushagradhawan.com](https://kushagradhawan.com)
 - **LinkedIn:** [in/kushagra-dhawan](https://linkedin.com/in/kushagra-dhawan)
 - **X / Twitter:** [@kushagra_dhawan](https://x.com/kushagra_dhawan)
-- **Email:** [hello@kushagradhawan.design](mailto:hello@kushagradhawan.design)
+- **Email:** [hello@kushagradhawan.com](mailto:hello@kushagradhawan.com)
 - **Consulting:** [Book a call](https://calendly.com/accounts-kushagradhawan/30min)
