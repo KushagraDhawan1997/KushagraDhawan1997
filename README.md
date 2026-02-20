@@ -42,6 +42,7 @@ I built KookieUI because I needed design decisions to live in code, not in Figma
 
 I write about design systems, product engineering, and building at the intersection of disciplines.
 
+- [Kookie Blocks: Higher-Level Components for Kookie UI](https://www.kushagradhawan.com/articles/about-kookie-blocks) — Why I stopped rebuilding the same patterns. Kookie Blocks is a collection of pre-built patterns on top of Kookie UI.
 - [Why Designers Should Own the Experience in Production](https://kushagradhawan.com/articles/designers-own-the-experience-in-production) — Why the design layer should live in code, how I do it with KookieUI at Womp, and what changes day to day.
 - [Product Leadership: All About Agency](https://kushagradhawan.com/articles/leadership-approaches) — How I think about product decisions, team dynamics, and shipping.
 - [Building My Own Design System](https://kushagradhawan.com/articles/about-kookie-ui) — KookieUI is a fork of Radix Themes with different design opinions. Same infrastructure, different choices.
