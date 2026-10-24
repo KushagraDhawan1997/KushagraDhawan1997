@@ -2,7 +2,7 @@
 
 I make tools for people who make things.
 
-I lead product and design at [Womp 3D](https://womp.com), a 3D modeling tool in the browser. I design the product, write its frontend, and maintain [Womp's Design System](https://github.com/KushagraDhawan1997/kookie-ui), which every screen in Womp is built from.
+Since 2021, I have led product and design at [Womp 3D](https://womp.com), a 3D modeling tool in the browser. I design the product, write its frontend, and maintain [Womp's Design System](https://github.com/KushagraDhawan1997/kookie-ui), which every screen in Womp is built from.
 
 [Kookie](https://kookie.design) is where I build my own tools. It is named after my dog.
 
